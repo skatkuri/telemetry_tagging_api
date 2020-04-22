@@ -1,0 +1,3 @@
+[submodule "snowflake_connector"]
+	path = snowflake_connector
+	url = https://github.com/skatkuri/snowflake_connector.git
